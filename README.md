@@ -1,5 +1,5 @@
 ### not-root
-Bienvenido a mi perfil de GitHub, aquí encontrarás desde multitudes de códigos relacionados a la API de Discord hasta guías relacionadas a informática.
+Bienvenido a mi perfil de GitHub, aquí encontrarás desde códigos relacionados a la API de Discord hasta guías relacionadas a informática.
 💬 Contacto: chase.#0101
 
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=not-root&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
