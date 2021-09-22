@@ -1,6 +1,6 @@
 ### not-root
 Bienvenido a mi perfil de GitHub, aquí encontrarás desde códigos relacionados a la API de Discord hasta guías relacionadas a informática.
-💬 Contacto: chasex#0101
+💬 Contacto: chasex#3700
 
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=not-root&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
