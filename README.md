@@ -1,7 +1,5 @@
 ### not-root
-Bienvenido a mi perfil de GitHub, aquí encontrarás desde códigos relacionados a la API de Discord hasta guías relacionadas a informática.
-💬 Contacto: notp1mp#1337
-
+Hello noob, welcome to my github profile!
 [![Gituhub](https://github-readme-stats.vercel.app/api?username=not-root&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=not-root&exclude_repo=eslint-config&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
