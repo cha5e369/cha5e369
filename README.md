@@ -1,6 +1,7 @@
 ### Hi 👋
 
 Hi, I'm Chase. I study Computer Engineering, I delve into the subject of Pentesting.
+Contact me: notp1mp@riseup.net
 
 
 ![visits](https://komarev.com/ghpvc/?username=notp1mp)
