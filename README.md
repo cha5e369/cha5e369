@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://solo.to/notp1mñ">notp1mp</a></h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm <a href="https://solo.to/notp1mp">notp1mp</a></h2>
 
 <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/notp1mp?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
