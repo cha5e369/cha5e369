@@ -22,7 +22,7 @@
 <img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />[Telegram](https://t.me/notp1mp)
 <br>
 <br>
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://datosarg.com/social/discord)
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://notp1mp.dev)
 
 
 ### Languages and Tools:
