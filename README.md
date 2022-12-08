@@ -7,7 +7,7 @@
 
 <img src="https://c.tenor.com/54mjjpuowCgAAAAM/ninjala-jane.gif" alt="ninjala jane">
 
-### Hey guys!
+### Hey coders!
 
 <ul>
   <li> 📝 I’m currently working on Discord Bots, API REST, General Auditory and more...</li>
