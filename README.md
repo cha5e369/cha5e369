@@ -7,7 +7,7 @@
 ### Hey coders!
 
 <ul>
-  <li> 📝 I’m currently working on Discord Bots, API REST, General Auditory and more...</li>
+  <li> 📝 I’m currently working on AI topic, General Auditory and more...</li>
   <li> 📧 Contact me with my mail or my <a href="https://t.me/notp1mp">Telegram</a></li>
 </ul>
 
