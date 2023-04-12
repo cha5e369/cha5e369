@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm <a href="https://notp1mp.dev">Chase</a></h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm <a href="https://notp1mp.dev">cha5e369</a></h2>
 
 <p align="center">
     <img alt="" src=https://komarev.com/ghpvc/?username=notp1mp&style=for-the-badge />
