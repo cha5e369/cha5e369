@@ -8,7 +8,7 @@
 
 <ul>
   <li> 📝 I’m currently working on AI topic, General Auditory and more...</li>
-  <li> 📧 Contact me with my mail or my <a href="https://t.me/notp1mp">Telegram</a></li>
+  <li> 📧 Contact me with my <a href="mailto:notp1mp@riseup.net">e-mail</a></li>
 </ul>
 
 
