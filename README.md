@@ -15,16 +15,3 @@
 ### Connect with me:
 
 <a href="https://discord.com/users/725085639887814810"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/725085639887814810"/></a>
-
-
-<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://discord.com/users/725085639887814810)
-
-
-### Languages and Tools:
-
-<img align="left" alt="Discord.JS" width="30px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="Javascript" width="30px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> <br> <br>
-  
