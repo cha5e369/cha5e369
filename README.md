@@ -16,9 +16,7 @@
 
 <a href="https://discord.com/users/725085639887814810"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/725085639887814810"/></a>
 
-<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />[Telegram](https://t.me/notp1mp)
-<br>
-<br>
+
 <img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://discord.com/users/725085639887814810)
 
 
