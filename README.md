@@ -6,7 +6,3 @@
 
 ### About me
  I'm Chase, a Node.js specialist developer. My focus is on creating reliable and efficient software. I'm interested in stimulating projects that allow me to keep growing and improving.
-
-
-### Connect with me:
-<a href="https://discord.com/users/114947040823345160"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/114947040823345160?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Developing%20discord.gg/haworth"/></a>
